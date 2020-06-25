@@ -1,3 +1,9 @@
+# ARCHIVED
+
+See project description and website for more info.
+
+---
+
 # Yet Another Thesis Template
 
 Jesus Christ, who needs that many templates?
